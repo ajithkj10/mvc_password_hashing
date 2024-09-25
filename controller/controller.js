@@ -1,24 +1,3 @@
-// const Name = require("../model/model1");
-// const bcrypt = require('bcrypt');
-// const renderHome = (req, res) => {
-//   Name.find().then(() => {
-//     // Changed User to Name
-//     res.render("index");
-//   });
-// };
-
-// const addUser = (req, res) => {
-//   const newUser = new Name({
-//     name: req.body.name,
-//     password:req.body.password
-//   });
-
-//   newUser.save().then((result) => {
-//     res.redirect("/");
-//   });
-// };
-
-// module.exports = { renderHome, addUser };
 
 
 
